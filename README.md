@@ -28,7 +28,7 @@ jupyter notebook NetworkTrafficAnalysis.ipynb
 Run the cells step by step to analyze the dataset and visualize results.
 
 Requirements
-Python 3.x
+Python 3.9
 
 pandas
 
